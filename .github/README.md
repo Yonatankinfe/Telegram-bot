@@ -30,12 +30,12 @@ Enterprise-grade Telegram bot system for challenge management, sales automation,
  ```
 
 ## 👤 User Bot Core
-// Sales Automation
+### Sales Automation
 - Intelligent inquiry routing to sales agents
 - Product catalog with rich media support
 - Order status tracking system
 
-// Data Management
+### Data Management
 - Secure PII storage (Phone/Telegram ID/Username)
 - Challenge participation history
 - Interaction analytics (opens/clicks/replies)
