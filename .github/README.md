@@ -59,3 +59,13 @@ Enterprise-grade Telegram bot system for challenge management, sales automation,
 git clone https://github.com/yourusername/telegram-bot-suite.git
 cd telegram-bot-suite
 ```
+## 🌟 Roadmap
++ Multi-admin role system
+
++ SMS verification layer
+
++ Premium challenge tiers
+
++ AI-powered spam detection
+
++ Revenue dashboard (Stripe integration)
