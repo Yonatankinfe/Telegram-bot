@@ -1,44 +1,26 @@
-# Telegram Admin & User Bot Suite
+# 🤖 Telegram Admin & User Bot Suite 
 
-A comprehensive Telegram bot system designed for managing challenges, broadcasting messages, and facilitating user-sales interactions. Built with Node.js and the Telegram Bot API.
+![Node.js](https://img.shields.io/badge/Node.js-18%2B-green) 
+![License](https://img.shields.io/badge/License-MIT-blue) 
+![Dependencies](https://img.shields.io/badge/dependencies-telegraf%20|%20mongodb%20|%20mongoose-orange)
 
+Enterprise-grade Telegram bot system for challenge management, sales automation, and mass communication. Built with battle-tested Node.js stack.
 
+---
 
-## Features
+## 🚀 Key Features
 
-### Admin Bot Features
-- **Custom Broadcasts**: Send text, images, videos, and documents to all users or specific segments.
-- **Challenge Management**:
-  - Create time-bound challenges with custom rules.
-  - Generate unique participation links for each user.
-  - Automatic winner selection with tracking system.
-- **User Management**:
-  - Store user details (Telegram ID, username, phone number, and name).
-  - View participant statistics and engagement metrics.
-- **Direct Communication**: Instant messaging interface with users.
+### ⚡ Admin Bot Core
+```javascript
+// Challenge Management
+- Time-bound competitions with auto-winner selection
+- Custom participation links generation (UUIDv4)
+- Real-time leaderboard tracking
 
-### User Bot Features
-- **Sales Forwarding System**: Automatically route user inquiries to designated sales personnel.
-- **Information Display**:
-  - Product catalogs with rich media support.
-  - Company contact information and business hours.
-  - Interactive FAQs and support queries.
-- **Challenge Participation**:
-  - Join challenges via personalized links.
-  - Real-time challenge status updates.
-
-## Technologies Used
-- Node.js (v16+)
-- Telegraf Framework (Telegram Bot API)
-- MongoDB (Data Storage)
-- Mongoose (ODM)
-- Dotenv (Environment Management)
-
-## Prerequisites
-- Telegram account with [BotFather](https://t.me/BotFather) access
-- MongoDB Atlas account or local MongoDB instance
-- Node.js and npm installed
-
+// Broadcast System
+- Multi-format messaging (text/image/video/documents)
+- Scheduled campaigns with send-rate controls
+- User segmentation by engagement level
 ## Installation
 
 1. **Clone Repository**
