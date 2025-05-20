@@ -49,4 +49,13 @@ Enterprise-grade Telegram bot system for challenge management, sales automation,
 
 + ORM: Mongoose ODM
 
-+ Security: Bcrypt hashing + Encryption-at-rest
++ Security: Bcrypt hashing + Encryption-at-rest\
+
+
+## 📦 Installation
+
+### Clone Repository
+```bash
+git clone https://github.com/yourusername/telegram-bot-suite.git
+cd telegram-bot-suite
+```
