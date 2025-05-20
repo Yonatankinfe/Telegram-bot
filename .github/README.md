@@ -39,3 +39,14 @@ Enterprise-grade Telegram bot system for challenge management, sales automation,
 - Secure PII storage (Phone/Telegram ID/Username)
 - Challenge participation history
 - Interaction analytics (opens/clicks/replies)
+
+## 🛠 Tech Stack
++ Runtime: Node.js 18+
+
++ Framework: Telegraf (Telegram Bot API)
+
++ Database: MongoDB Atlas (NoSQL)
+
++ ORM: Mongoose ODM
+
++ Security: Bcrypt hashing + Encryption-at-rest
