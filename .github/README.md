@@ -1,4 +1,4 @@
-# 🤖 Telegram Admin & User Bot Suite 
+# Telegram Admin & User Bot Suite 
 
 ![Node.js](https://img.shields.io/badge/Node.js-18%2B-green) 
 ![License](https://img.shields.io/badge/License-MIT-blue) 
