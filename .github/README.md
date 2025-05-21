@@ -11,13 +11,13 @@ Enterprise-grade Telegram bot system for challenge management, sales automation,
 ## 🚀 Key Features
 
 ### ⚡ Admin Bot Core
-```javascript
-// Challenge Management
+
+#### Challenge Management
 - Time-bound competitions with auto-winner selection
 - Custom participation links generation (UUIDv4)
 - Real-time leaderboard tracking
 
-// Broadcast System
+#### Broadcast System
 - Multi-format messaging (text/image/video/documents)
 - Scheduled campaigns with send-rate controls
 - User segmentation by engagement level
