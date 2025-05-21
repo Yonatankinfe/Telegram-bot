@@ -69,3 +69,13 @@ cd telegram-bot-suite
 + AI-powered spam detection
 
 + Revenue dashboard (Stripe integration)
+
+## 🤝 Contribution Guidelines
++ Fork repository and create feature branch
++ Include Jest tests for all new features
+
++ Maintain 90%+ test coverage
+
++ Update documentation accordingly
+
++ Submit PR with detailed changelog
