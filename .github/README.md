@@ -21,14 +21,6 @@ Enterprise-grade Telegram bot system for challenge management, sales automation,
 - Multi-format messaging (text/image/video/documents)
 - Scheduled campaigns with send-rate controls
 - User segmentation by engagement level
-## Installation
-
-1. **Clone Repository**
-   ```bash
-   git clone https://github.com/yourusername/telegram-bot-suite.git
-   cd telegram-bot-suite
- ```
-
 ## 👤 User Bot Core
 ### Sales Automation
 - Intelligent inquiry routing to sales agents
@@ -49,16 +41,15 @@ Enterprise-grade Telegram bot system for challenge management, sales automation,
 
 + ORM: Mongoose ODM
 
-+ Security: Bcrypt hashing + Encryption-at-rest\
-
++ Security: Bcrypt hashing + Encryption-at-rest
 
 ## 📦 Installation
 
-### Clone Repository
+1. **Clone Repository**
 ```bash
-git clone https://github.com/yourusername/telegram-bot-suite.git
-cd telegram-bot-suite
-```
+   git clone https://github.com/yourusername/telegram-bot-suite.git
+   cd telegram-bot-suite
+ ```
 ## 🌟 Roadmap
 + Multi-admin role system
 
