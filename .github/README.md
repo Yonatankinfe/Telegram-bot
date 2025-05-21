@@ -29,9 +29,13 @@ Enterprise-grade Telegram bot system for challenge management, sales automation,
 - User segmentation by engagement level
 ## 👤 User Bot Core
 ### Sales Automation
-- Intelligent inquiry routing to sales agents
-- Product catalog with rich media support
-- Order status tracking system
++ 🛒 Interactive product carousels
+
++ 🔄 Order status tracking with webhooks
+
++ 💬 Live chat handoff to human agents
+
++ 📦 Inventory sync with external APIs
 
 ### Data Management
 + 🛡️ GDPR-compliant PII handling
