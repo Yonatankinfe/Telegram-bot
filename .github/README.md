@@ -34,9 +34,13 @@ Enterprise-grade Telegram bot system for challenge management, sales automation,
 - Order status tracking system
 
 ### Data Management
-- Secure PII storage (Phone/Telegram ID/Username)
-- Challenge participation history
-- Interaction analytics (opens/clicks/replies)
++ 🛡️ GDPR-compliant PII handling
+
++ 📆 Challenge participation history
+
++ 📊 Interaction analytics pipeline
+
++ 🔄 Data export/portability tools
 
 ## 🛠 Tech Stack
 + Runtime: Node.js 18+
