@@ -1,6 +1,3 @@
-// Admin Bot Token = 7567747496:AAF6oHFEP9TsNgRiS4i1XIG7QvDqkZMm9H8
-// NANA_BOT Token = 7337293131:AAEBiPMM_oJs1pcKkkPpdt4KM1wKPrVcN2M
-
 const TelegramBot = require('node-telegram-bot-api'); 
 const fs = require('fs');
 const path = require('path');
