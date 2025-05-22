@@ -24,7 +24,7 @@ const refFilePath = path.join(__dirname, 'ref.csv');
 // Path to the shared CSV file for challenges
 const challengeFilePath = path.join(__dirname, 'challenge_data.csv');
 // Array of allowed admin user IDs
-const allowedAdmins = [801222539]; // Replace with your Telegram user ID
+const allowedAdmins = [Telegram admin user id]; // Replace with your Telegram user ID
 
 // Middleware to check if the user is an admin
 const isAdmin = (chatId) => allowedAdmins.includes(chatId);
