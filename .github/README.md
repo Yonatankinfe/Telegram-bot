@@ -76,6 +76,18 @@ Enterprise-grade Telegram bot system for challenge management, sales automation,
 + Revenue dashboard (Stripe integration)
 
 ## 🤝 Contribution Guidelines
+### Development Setup
+```bash
+git clone && cd telegram-bot-suite
+npm install
+npm run dev
+```
+# Testing
+```bash
+npm test        # Unit tests
+npm run lint    # Code style check
+npm run audit   # Security audit
+```
 + Fork repository and create feature branch
 + Include Jest tests for all new features
 
