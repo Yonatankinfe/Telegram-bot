@@ -87,7 +87,8 @@ Enterprise-grade Telegram bot system for challenge management, sales automation,
 + Submit PR with detailed changelog
   
 ```bash
-git clone && cd telegram-bot-suite
+git clone
+cd telegram-bot-suite
 npm install
 npm run dev
 ```
