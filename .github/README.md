@@ -77,6 +77,15 @@ Enterprise-grade Telegram bot system for challenge management, sales automation,
 
 ## 🤝 Contribution Guidelines
 ### Development Setup
++ Fork repository and create feature branch
++ Include Jest tests for all new features
+
++ Maintain 90%+ test coverage
+
++ Update documentation accordingly
+
++ Submit PR with detailed changelog
+  
 ```bash
 git clone && cd telegram-bot-suite
 npm install
@@ -88,11 +97,4 @@ npm test        # Unit tests
 npm run lint    # Code style check
 npm run audit   # Security audit
 ```
-+ Fork repository and create feature branch
-+ Include Jest tests for all new features
 
-+ Maintain 90%+ test coverage
-
-+ Update documentation accordingly
-
-+ Submit PR with detailed changelog
