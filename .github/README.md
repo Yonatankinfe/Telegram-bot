@@ -75,7 +75,7 @@ Enterprise-grade Telegram bot system for challenge management, sales automation,
 
 + Revenue dashboard (Stripe integration)
 
-## 🤝 Contribution Guidelines
+
 ### Development Setup
 + Fork repository and create feature branch
 + Include Jest tests for all new features
@@ -116,3 +116,4 @@ Please ensure your contributions include tests and pass the suite!
 npm run lint    # Code style check
 npm run audit   # Security audit
 ```
+## 🤝 Contribution Guidelines
