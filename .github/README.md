@@ -106,3 +106,8 @@ Tests cover key flows like:
 + 🏆 Challenge Setup & Data Saving
 + ✨ Winner Picking Logic (Data Filtering & Selection)
 + ✅ Input Validations
+
+To run the tests:
+```bash
+npm test
+```
