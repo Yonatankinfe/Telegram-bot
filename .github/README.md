@@ -111,3 +111,4 @@ To run the tests:
 ```bash
 npm test
 ```
+Please ensure your contributions include tests and pass the suite!
