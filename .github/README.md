@@ -99,3 +99,10 @@ Mocks include:
 + 💾 File System (fs, path): Read/write virtual files.
 + 🌐 HTTP Requests (axios): Mock external API calls like media downloads.
 + 📊 CSV Handling (csv-parser, json2csv): Control data parsing and generation.
+
+Tests cover key flows like:
++ 👋 Admin /start & Menu Actions
++ 📢 Sending Mass Messages (Text & Media)
++ 🏆 Challenge Setup & Data Saving
++ ✨ Winner Picking Logic (Data Filtering & Selection)
++ ✅ Input Validations
