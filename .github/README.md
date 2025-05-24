@@ -93,9 +93,9 @@ npm install
 npm run dev
 ```
 # Testing
-```bash
-npm test        # Unit tests
-npm run lint    # Code style check
-npm run audit   # Security audit
-```
-
+🧪 This project uses Jest for comprehensive unit testing. We heavily rely on mocking to test logic in isolation from external services and files, making tests fast and reliable.
+Mocks include:
+🤖 Telegram Bot API (node-telegram-bot-api): Simulate bot interactions.
+💾 File System (fs, path): Read/write virtual files.
+🌐 HTTP Requests (axios): Mock external API calls like media downloads.
+📊 CSV Handling (csv-parser, json2csv): Control data parsing and generation.
