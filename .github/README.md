@@ -112,3 +112,7 @@ To run the tests:
 npm test
 ```
 Please ensure your contributions include tests and pass the suite!
+```bash
+npm run lint    # Code style check
+npm run audit   # Security audit
+```
